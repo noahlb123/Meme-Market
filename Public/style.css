@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+  color: white;
+}
+
+body {
+  background-color: black;
+  font-family: "courier new", sans-serif;
+  display: block;
+}
+
+* {
+  display: block;
+}
+
+title {
+  display: none;
+}
+
+wrapper {
+  width: 100%;
+  margin: auto;
+}
+
+a {
+  margin: 10px;
+}
