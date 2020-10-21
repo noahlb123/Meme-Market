@@ -12,7 +12,7 @@ function listening(){
   console.log('listening at port ' + port + '...');
 }
 
-app.use(express.static('public'));
+app.use(express.static('Public'));
 
 app.get('/bro', getData);
 
